@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a graduate student from the Faculty of Engineering and Technology, Agra College specializing in computer science and engineering. I am looking for a full-time opportunity. I m currently learning a full-stack data science certification course from iNeuron.ai platform.
+Enthusiastic Developer with two years' experience in Python, DevOps, Shell Scripting. Skilled in fetching and cleaning data, building APIs, Automation,CI/CD , and web crawling. Seeking a challenging opportunity to utilize these skills and grow further in the field of Development..
 
 
 ## 🌐 Socials:
