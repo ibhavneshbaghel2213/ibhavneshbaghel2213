@@ -1,5 +1,5 @@
 # 💫 About Me:
-Enthusiastic Developer with two years' experience in Python, DevOps, Shell Scripting. Skilled in fetching and cleaning data, building APIs, Automation,CI/CD , and web crawling. Seeking a challenging opportunity to utilize these skills and grow further in the field of Development..
+Enthusiastic Devops Engineer with two years' experience in Python, Development, Shell Scripting. Skilled in fetching and cleaning data, building APIs, Automation,CI/CD , and web crawling. Seeking a challenging opportunity to utilize these skills and grow further in the field of Development..
 
 
 ## 🌐 Socials:
